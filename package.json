@@ -1,0 +1,26 @@
+{
+  "name": "17.5_middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/piotrfrukacz/17.4_static_files.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/piotrfrukacz/17.4_static_files/issues"
+  },
+  "homepage": "https://github.com/piotrfrukacz/17.4_static_files#readme"
+}
